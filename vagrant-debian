@@ -59,7 +59,6 @@ VBOX_KEY="${FOLDER_BASE}/vagrantkey"
 
 DEBIAN_MIRROR="cdimage.debian.org"
 DEBIAN_URL="http://${DEBIAN_MIRROR}/mirror/cdimage/${MIRROR_DIR}/${ARCH}/iso-cd"
-ISO_VERSION=""
 
 VBGA_DEBIAN_PATH="/usr/share/virtualbox/VBoxGuestAdditions.iso"
 VBGA_DARWIN_PATH="/Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso"
